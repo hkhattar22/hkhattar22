@@ -5,7 +5,7 @@
 I’m a **Computer Science undergraduate** passionate about **technology-driven innovation** and **continuous self-improvement**.  
 
 I believe in solving real-world problems through **creativity, engineering, and design-thinking**.  
-Also, I’ve always had an artistic side – drawing, sketching, painting – and I dream of one day becoming a **3D animator at Disney** ✨.  
+Also, I’ve always had an artistic side – drawing, sketching, painting.  
 
 ---
 
