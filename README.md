@@ -35,9 +35,6 @@ const HARSHITA = {
     },
 };
 ```
----
-
-## 📊 Statistics
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhattar22&layout=compact&theme=transparent"/>
 </div>
