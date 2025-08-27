@@ -1,5 +1,4 @@
-<div align="center">
-    <img width=300 src=""/>    
+<div align="center"> 
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Hello%2C+!+I'm+HARSHITA!" alt="Typing SVG" /></a>
@@ -8,10 +7,13 @@
 ---
 
 ## 👩‍🎓 About Me
-I’m a **Computer Science undergraduate** passionate about **technology-driven innovation** and **continuous self-improvement**.  
+Hi, I'm Harshita Khattar — a Computer Science undergraduate passionate about building innovative, impactful, and human-centered tech solutions. My journey so far has been a blend of creativity, curiosity, and a deep drive to continuously learn and improve.
 
-I believe in solving real-world problems through **creativity, engineering, and design-thinking**.  
-Also, I’ve always had an artistic side – drawing, sketching, painting.  
+From contributing to full-stack projects to winning my first hackathon, I thrive in fast-paced, problem-solving environments. My internship as an Application Development Intern strengthened my frontend development skills, while my work on C.L.A.S.S., an AI-powered educational platform, reflects my commitment to accessible, personalized learning experiences.
+
+Beyond the code, I care deeply about leveraging AI for good — whether it's building a website for social good or empowering students through smart tools like resume scorers and interview prep analyzers. I'm also a lifelong art lover and dreamer with a creative eye.
+
+Currently exploring the intersection of software engineering, AI, and education technology, I'm always looking for opportunities to grow, collaborate, and contribute meaningfully to the future of tech.
 
 ---
 
@@ -32,7 +34,12 @@ const HARSHITA = {
         devOps: ["Docker", "Podman"]
     },
 };
-
+```
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhattar22&layout=compact&theme=transparent"/>
+## 📊 Statistics
+<div align="center">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hkhattar22&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhattar22&layout=compact&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hkhattar22&show_icons=true&theme=transparent"/><br>
+</div>
