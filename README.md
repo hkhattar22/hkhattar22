@@ -39,7 +39,5 @@ const HARSHITA = {
 
 ## 📊 Statistics
 <div align="center">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hkhattar22&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhattar22&layout=compact&theme=transparent"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=hkhattar22&show_icons=true&theme=transparent"/><br>
 </div>
