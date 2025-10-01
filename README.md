@@ -9,7 +9,7 @@
 ## 👩‍🎓 About Me
 Hi, I'm Harshita Khattar — a Computer Science undergraduate passionate about building innovative, impactful, and human-centered tech solutions. My journey so far has been a blend of creativity, curiosity, and a deep drive to continuously learn and improve.
 
-From contributing to full-stack projects to winning my first hackathon, I thrive in fast-paced, problem-solving environments. My internship as an Application Development Intern strengthened my frontend development skills, while my work on C.L.A.S.S., an AI-powered educational platform, reflects my commitment to accessible, personalized learning experiences.
+From contributing to full-stack projects to winning my first hackathon, I thrive in fast-paced, problem-solving environments. My internship as an Application Development Intern strengthened my full stack and generative ai skills, while my work on C.L.A.S.S., an AI-powered educational platform, reflects my commitment to accessible, personalized learning experiences.
 
 Beyond the code, I care deeply about leveraging AI for good — whether it's building a website for social good or empowering students through smart tools like resume scorers and interview prep analyzers. I'm also a lifelong art lover and dreamer with a creative eye.
 
@@ -28,7 +28,7 @@ const HARSHITA = {
     programming: {
         backend: [ "FastApi", "Flask", "PyDantic"],
         frontend: ["HTML", "CSS"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL", "Databricks"],
         machine-learning: [ "pandas", "opencv", "tensorflow"],
         webScraping: ["requests", "BeautifulSoup4", "Selenium"],
         devOps: ["Docker", "Podman"]
